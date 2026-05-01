@@ -215,7 +215,3 @@ Dim Promotion  (1) ──── (*)  Fact Sales   [PromotionID]
  
 ---
  
-## 📄 License
- 
-This project is for educational and portfolio purposes.
-Data is synthetic and does not represent any real company.
