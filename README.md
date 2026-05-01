@@ -209,9 +209,9 @@ Dim Promotion  (1) ──── (*)  Fact Sales   [PromotionID]
 ## 👤 Author
  
 **[Uta Harish Kumar]**
-📧 [utaharish96@example.com]
-🔗 [LinkedIn Profile URL]
-🐙 [GitHub Profile URL]
+📧 [utaharish96@gmail.com]
+🔗 [https://www.linkedin.com/in/utaharishkumar/]
+🐙 [https://github.com/Harish-Uta17]
  
 ---
  
